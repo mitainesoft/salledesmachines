@@ -1,6 +1,6 @@
 /*
-Salle des machine du 482 Pierre Boileau
-Arret de lèechangeur d'air si la temperature du tuyau de secheuse 
+Salle des machines
+Arret de l'echangeur d'air si la temperature du tuyau de secheuse 
 est superieure a la temperature ambiante
 
 Rev: 03 2015-12-27 JLC
